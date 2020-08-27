@@ -1,0 +1,6 @@
+@import 'components/color-variables';
+$primary-color: color("orange", "base");
+$secondary-color: color("grey", "darken-2");
+$link-color: $primary-color;
+$button-floating-background: $primary-color;
+$footer-bg-color: $secondary-color;
